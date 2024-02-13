@@ -1,0 +1,22 @@
+img {
+    max-width: 100%; 
+    height: auto; 
+  }
+   *{
+    font-family: 'Creepster', system-ui;
+    font-size: 30px;
+   }
+  
+  body {
+  
+    text-align: center;
+    margin: 30px;
+  
+  }
+  
+  .list-group-item {
+    border: 1px solid #0b2744; 
+    border-radius: 0.25rem; 
+    margin-bottom: 10px; 
+  
+  }
